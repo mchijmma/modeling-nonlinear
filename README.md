@@ -1,8 +1,8 @@
 # modeling-nonlinear
 
-Audio examples for the [paper](https://arxiv.org/abs/1810.06603):
+Audio examples for the [paper](https://arxiv.org/pdf/1810.06603v2):
 
-[Martínez M.](http://m-marco.com) and Reiss J. D., “Modeling of nonlinear audio effects with end-to-end deep neural networks” submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
+[Martínez Ramírez M. A.](http://m-marco.com) and Reiss J. D., “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
 
 
