@@ -2,7 +2,7 @@
 
 [Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
-
+&nbsp;
 ## distortion
 &nbsp;
 ### 1st-setting
@@ -453,11 +453,11 @@
 &nbsp;
 ### Citation
 <font size="1">
-@inproceedings{martinez2019modeling,
-title={Modeling of nonlinear audio effects with end-to-end deep neural networks},
-author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},
-booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
-Month = {May},
-year = {2019},
-location = {Brighton, UK}
+@inproceedings{martinez2019modeling,<br />
+title={Modeling of nonlinear audio effects with end-to-end deep neural networks},<br />
+author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},<br />
+booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},<br />
+Month = {May},<br />
+year = {2019},<br />
+location = {Brighton, UK}<br />
 }<br />
