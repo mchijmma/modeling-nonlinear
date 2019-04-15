@@ -452,14 +452,12 @@
 
 &nbsp;
 ### Citation
+>@inproceedings{martinez2019modeling,<br />
+>   title={Modeling of nonlinear audio effects with end-to-end deep neural networks},<br />
+>   author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},<br />
+>   booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},<br />
+>   month = {May},<br />
+>   year = {2019},<br />
+>   location = {Brighton, UK}<br />
+>}<br />
 
-```
-@inproceedings{martinez2019modeling,
-title={Modeling of nonlinear audio effects with end-to-end deep neural networks},
-author={Mart\'{i}nez Ram\'{i}rez, Marco A. and Reiss, Joshua D.},<br />
-booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
-Month = {May},
-year = {2019},
-location = {Brighton, UK}
-}
-```
