@@ -4,6 +4,7 @@
 
 
 ## distortion
+&nbsp;
 ### 1st-setting
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
@@ -98,6 +99,7 @@
 
 &nbsp;
 ## overdrive
+&nbsp;
 ### 1st-setting
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
@@ -174,6 +176,7 @@
 
 &nbsp;
 ## EQ
+&nbsp;
 ### 1st-setting
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
@@ -243,35 +246,36 @@
 
 &nbsp;
 ## FxChain
+&nbsp;
 ### 1st-setting
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
@@ -282,30 +286,30 @@
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/bass_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/1st-setting/guitar_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/1st-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
@@ -316,30 +320,30 @@
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
@@ -350,30 +354,30 @@
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/bass_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/2nd-setting/guitar_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/2nd-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
@@ -384,30 +388,30 @@
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
@@ -418,30 +422,30 @@
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth1-fxchain_INPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_NSynth1_fxchain_INPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth2-fxchain_TARGET.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_NSynth2_fxchain_TARGET.mp3" type="audio/mp3" />
 </audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/bass_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/bass_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 <audio controls="controls">
-<source src="audio/fxchain/3rd-setting/guitar_NSynth3-fxchain_OUTPUT.mp3" type="audio/mp3" />
+<source src="audio/fxchain/3rd-setting/guitar_NSynth3_fxchain_OUTPUT.mp3" type="audio/mp3" />
 </audio>
 </div>
 </div>
