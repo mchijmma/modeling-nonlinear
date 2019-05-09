@@ -5,11 +5,15 @@
 &nbsp;
 ## distortion example
 
-<img src="https://cdn.shopify.com/s/files/1/1661/9429/files/backstage_jimi_effects_s638x0_q80_noupscale_grande.jpg?v=1523612606" width=100% height=100%>
-
-<audio controls="controls">
-<source src="audio/distortion/distortion.mp3" type="audio/mp3" />
+<audio id="audio_play">
+    <source src="audio/distortion/distortion.mp3" type="audio/mp3" />
 </audio>
+
+<img src="https://cdn.shopify.com/s/files/1/1661/9429/files/backstage_jimi_effects_s638x0_q80_noupscale_grande.jpg?v=1523612606" onClick="document.getElementById('audio_play').play(); return false;" />
+
+
+
+
   
 &nbsp;
 ## distortion
