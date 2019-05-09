@@ -5,7 +5,8 @@
 &nbsp;
 ## distortion example
 
-<IMG SRC="audio/distortion/jimi.jpg" ALT="some text" WIDTH=500 HEIGHT=600>
+<img src="https://cdn.shopify.com/s/files/1/1661/9429/files/backstage_jimi_effects_s638x0_q80_noupscale_grande.jpg?v=1523612606" width=100% height=100%>
+
 <audio controls="controls">
 <source src="audio/distortion/distortion.mp3" type="audio/mp3" />
 </audio>
