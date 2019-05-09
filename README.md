@@ -3,6 +3,14 @@
 [Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
 &nbsp;
+## distortion example
+
+<IMG SRC="audio/distortion/jimi.jpg" ALT="some text" WIDTH=500 HEIGHT=600>
+<audio controls="controls">
+<source src="audio/distortion/distortion.mp3" type="audio/mp3" />
+</audio>
+  
+&nbsp;
 ## distortion
 &nbsp;
 ### 1st-setting
