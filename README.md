@@ -2,7 +2,7 @@
 
 [Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
-[View the source code](https://github.com/mchijmma/DL-AFx/tree/master/src) - CAFx -> Models.py
+[View the source code:](https://github.com/mchijmma/DL-AFx/tree/master/src) CAFx -> Models.py
 
 &nbsp;
 ## distortion example
