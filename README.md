@@ -1,6 +1,6 @@
 [Audio examples](https://mchijmma.github.io/modeling-nonlinear/) for the [paper](https://ieeexplore.ieee.org/document/8683529):
 
-[Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling of nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
+[Martínez Ramírez M. A.](http://m-marco.com) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “Modeling nonlinear audio effects with end-to-end deep neural networks” in the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
 [View the source code:](https://github.com/mchijmma/DL-AFx/tree/master/src) CAFx -> Models.py
 
@@ -468,7 +468,7 @@
 &nbsp;
 ### Citation
 >@inproceedings{martinez2019modeling,<br />
->   title={Modeling of nonlinear audio effects with end-to-end deep neural networks},<br />
+>   title={Modeling nonlinear audio effects with end-to-end deep neural networks},<br />
 >   author={Mart\'{i}nez Ram\'{i}rez, Marco A and Reiss, Joshua D},<br />
 >   booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},<br />
 >   month = {May},<br />
